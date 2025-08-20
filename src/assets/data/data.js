@@ -24,8 +24,8 @@ export const contents = [
   {
     id: 4,
     img: img4,
-    title: "린스타트업 맞춤형 MVP 개발자 양성 과정!",
-    subtitle: "린스타트업 맞춤형 Serverless MVP 개발!",
+    title: "스타트업 맞춤형 MVP 개발자 양성 과정!",
+    subtitle: "스타트업 맞춤형 Serverless MVP 개발!",
   },
   {
     id: 1,
@@ -48,7 +48,7 @@ export const contents = [
   {
     id: 4,
     img: img4,
-    title: "린스타트업 맞춤형 MVP 개발자 양성 과정!",
-    subtitle: "린스타트업 맞춤형 Serverless MVP 개발!",
+    title: "스타트업 맞춤형 MVP 개발자 양성 과정!",
+    subtitle: "스타트업 맞춤형 Serverless MVP 개발!",
   },
 ];

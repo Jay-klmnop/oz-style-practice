@@ -1,0 +1,16 @@
+export const color_yellow = "#fad400";
+export const color_orange = "#ff4800ff";
+export const color_lightgrey = "rgb(160, 160, 160)";
+export const color_darkgrey = "rgba(80, 80, 80, 1)";
+export const color_white = "rgb(255, 255, 255)";
+export const color_black = "rgb(0, 0, 0)";
+export const font_bg = "16px";
+export const font_md = "13px";
+export const font_sm = "11px";
+export const font_bold = 600;
+export const font_medium = 400;
+export const spacing_xxs = "3px";
+export const spacing_xs = "5px";
+export const spacing_sm = "10px";
+export const spacing_md = "20px";
+export const spacing_lg = "40px";
